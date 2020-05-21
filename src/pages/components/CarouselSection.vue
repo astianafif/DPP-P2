@@ -5,7 +5,7 @@
         <h4>Carousel</h4>
       </div>
       <div class="row justify-content-center">
-        <div class="col-8">
+        <div class="col-12">
           <el-carousel height="500px">
             <el-carousel-item>
               <img class="d-block" src="img/bg1.jpg" alt="First slide" />

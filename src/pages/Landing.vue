@@ -3,12 +3,12 @@
     <div class="page-header page-header-small">
       <parallax
         class="page-header-image"
-        style="background-image: url('img/bg6.jpg')"
+        style="background-image: url('img/6.jpg')"
       >
       </parallax>
       <div class="content-center">
         <div class="container">
-          <h1 class="title">This is our great company.</h1>
+          <h1 class="title">This is shit</h1>
           <div class="text-center">
             <a href="#pablo" class="btn btn-primary btn-icon btn-round">
               <i class="fab fa-facebook-square"></i>
@@ -53,6 +53,7 @@
                   <br />
                   <small>-NOAA</small>
                 </p>
+                
               </div>
               <!-- Second image on the left side of the article -->
               <div
