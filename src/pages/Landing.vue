@@ -38,13 +38,13 @@
         </div>
         <div class="separator separator-primary"></div>
         <div class="section-story-overview">
-          <div class="row">
+          <!--<div class="row">
             <div class="col-md-6">
               <div
                 class="image-container image-left"
                 style="background-image: url('img/login.jpg')"
               >
-                <!-- First image on the left side -->
+                
                 <p class="blockquote blockquote-primary">
                   "Over the span of the satellite record, Arctic sea ice has
                   been declining significantly, while sea ice in the
@@ -55,14 +55,14 @@
                 </p>
                 
               </div>
-              <!-- Second image on the left side of the article -->
+              
               <div
                 class="image-container"
                 style="background-image: url('img/bg3.jpg')"
               ></div>
             </div>
             <div class="col-md-5">
-              <!-- First image on the right side, above the article -->
+              
               <div
                 class="image-container image-right"
                 style="background-image: url('img/bg1.jpg')"
@@ -98,13 +98,72 @@
                 variety of the state of the ice.
               </p>
             </div>
+          </div>-->
+          <div class="row">
+          <div class="col-md-4">
+              <div class="team-player">
+                <card type="blog" plain>
+                  <img slot="image" class="img rounded img-raised" src="https://demos.creative-tim.com/vue-now-ui-kit-pro/img/project13.jpg">
+                    <div class="card-body">
+                      <h6 class="category text-warning">
+                        <i class="now-ui-icons business_bulb-63"></i> Focus
+                      </h6>
+                      <h5 class="card-title">
+                        <a href="#nuk">Stay Focused: Train Your Brain</a>
+                      </h5>
+                      <p class="card-description">
+                        Our brains are finely attuned to distraction, so today's digital environment makes it
+                        especially hard to focus...
+                      </p>
+                  </div>
+                </card>
+              </div>
+          </div>
+          <div class="col-md-4">
+              <div class="team-player">
+                <card type="blog" plain>
+                  <img slot="image" class="img rounded img-raised" src="https://demos.creative-tim.com/vue-now-ui-kit-pro/img/project13.jpg">
+                    <div class="card-body">
+                      <h6 class="category text-warning">
+                        <i class="now-ui-icons business_bulb-63"></i> Focus
+                      </h6>
+                      <h5 class="card-title">
+                        <a href="#nuk">Stay Focused: Train Your Brain</a>
+                      </h5>
+                      <p class="card-description">
+                        Our brains are finely attuned to distraction, so today's digital environment makes it
+                        especially hard to focus...
+                      </p>
+                  </div>
+                </card>
+              </div>
+          </div>
+          <div class="col-md-4">
+              <div class="team-player">
+                <card type="blog" plain>
+                  <img slot="image" class="img rounded img-raised" src="https://demos.creative-tim.com/vue-now-ui-kit-pro/img/project13.jpg">
+                    <div class="card-body">
+                      <h6 class="category text-warning">
+                        <i class="now-ui-icons business_bulb-63"></i> Focus
+                      </h6>
+                      <h5 class="card-title">
+                        <a href="#nuk">Stay Focused: Train Your Brain</a>
+                      </h5>
+                      <p class="card-description">
+                        Our brains are finely attuned to distraction, so today's digital environment makes it
+                        especially hard to focus...
+                      </p>
+                  </div>
+                </card>
+              </div>
+          </div>
           </div>
         </div>
       </div>
     </div>
     <div class="section section-team text-center">
       <div class="container">
-        <h2 class="title">Here is our team</h2>
+        <h2 class="title">What others says</h2>
         <div class="team">
           <div class="row">
             <div class="col-md-4">
@@ -116,21 +175,11 @@
                 />
                 <h4 class="title">Romina Hadid</h4>
                 <p class="category text-primary">Model</p>
-                <p class="description">
-                  You can write here details about one of your team members. You
-                  can give more details about what they do. Feel free to add
-                  some <a href="#">links</a> for people to be able to follow
-                  them outside the site.
+                <p class="blockquote blockquote-primary">
+                  "Over the span of the satellite record, Arctic sea ice has
+                  been declining significantly, while sea ice in the
+                  Antarctichas increased very slightly"
                 </p>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-twitter"></i
-                ></a>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-instagram"></i
-                ></a>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-facebook-square"></i
-                ></a>
               </div>
             </div>
             <div class="col-md-4">
@@ -142,18 +191,11 @@
                 />
                 <h4 class="title">Ryan Tompson</h4>
                 <p class="category text-primary">Designer</p>
-                <p class="description">
-                  You can write here details about one of your team members. You
-                  can give more details about what they do. Feel free to add
-                  some <a href="#">links</a> for people to be able to follow
-                  them outside the site.
+                <p class="blockquote blockquote-primary">
+                  "Over the span of the satellite record, Arctic sea ice has
+                  been declining significantly, while sea ice in the
+                  Antarctichas increased very slightly"
                 </p>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-twitter"></i
-                ></a>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-linkedin"></i
-                ></a>
               </div>
             </div>
             <div class="col-md-4">
@@ -165,21 +207,11 @@
                 />
                 <h4 class="title">Eva Jenner</h4>
                 <p class="category text-primary">Fashion</p>
-                <p class="description">
-                  You can write here details about one of your team members. You
-                  can give more details about what they do. Feel free to add
-                  some <a href="#">links</a> for people to be able to follow
-                  them outside the site.
+                <p class="blockquote blockquote-primary">
+                  "Over the span of the satellite record, Arctic sea ice has
+                  been declining significantly, while sea ice in the
+                  Antarctichas increased very slightly"
                 </p>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-google-plus"></i
-                ></a>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-youtube"></i
-                ></a>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-twitter"></i
-                ></a>
               </div>
             </div>
           </div>
@@ -188,8 +220,8 @@
     </div>
     <div class="section section-contact-us text-center">
       <div class="container">
-        <h2 class="title">Want to work with us?</h2>
-        <p class="description">Your project is very important to us.</p>
+        <h2 class="title">Don't Miss The Magic</h2>
+        <!--<p class="description">Your project is very important to us.</p>-->
         <div class="row">
           <div class="col-lg-6 text-center ml-auto mr-auto col-md-8">
             <fg-input
@@ -206,7 +238,7 @@
               addon-left-icon="now-ui-icons ui-1_email-85"
             >
             </fg-input>
-            <div class="textarea-container">
+            <!--<div class="textarea-container">
               <textarea
                 class="form-control"
                 name="name"
@@ -215,10 +247,10 @@
                 v-model="form.message"
                 placeholder="Type a message..."
               ></textarea>
-            </div>
+            </div>-->
             <div class="send-button">
               <n-button type="primary" round block size="lg"
-                >Send Message</n-button
+                >Subscribe</n-button
               >
             </div>
           </div>
@@ -229,6 +261,7 @@
 </template>
 <script>
 import { Button, FormGroupInput } from '@/components';
+import Cards from './components/Cards';
 export default {
   name: 'landing',
   bodyClass: 'landing-page',
@@ -241,10 +274,12 @@ export default {
       form: {
         firstName: '',
         email: '',
-        message: ''
+        message: '',
+        imgSrc: "img/6.jpg"
       }
     };
   }
 };
 </script>
+
 <style></style>
